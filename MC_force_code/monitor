@@ -1,0 +1,7 @@
+cqstatl -a | grep u1234 
+cqstatl -d nqs -h seymour 2377.seymour
+qstat -h seymour 2377.seymour 
+qstat -h bhaskara -a | grep u1234 
+qstat -h bhaskara 2866.bhaskara 
+cqdel taskid 
+
