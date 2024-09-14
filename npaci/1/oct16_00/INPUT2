@@ -1,0 +1,20 @@
+        number of processors
+        5
+        ibeg, Equil, Prod, Nsamp, Iseed
+         2    4000000 8000000  1  368675
+        Dr    GW   delta
+        0.09  1.0  0.01
+        Ndispl
+        5
+        BOX
+        118.4  
+        RAB0
+	1.3
+        Bjerrum length, Angstroms
+        1., 3., 5., 7.144, 10.
+        NION
+        3
+        sigi(i), qi(i), NPARTI(i)
+        4.0      3.      50
+        4.0     -1.      110
+        20.    -20.       2

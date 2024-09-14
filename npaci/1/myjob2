@@ -1,0 +1,6 @@
+#QSUB -q low
+#QSUB -l mpp_p=5
+#QSUB -l mpp_t=20:00:00
+#QSUB -o OUT
+cd /paci/ucb/ux450684/lB
+mpprun -n 5 Tf2
