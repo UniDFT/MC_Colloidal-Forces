@@ -1,0 +1,6 @@
+#QSUB -q low
+#QSUB -l mpp_p=10
+#QSUB -l mpp_t=20:00:00
+#QSUB -o OUT
+cd /paci/ucb/ux450684/3body2
+mpprun -n 10 /paci/ucb/ux450684/3body/a.out

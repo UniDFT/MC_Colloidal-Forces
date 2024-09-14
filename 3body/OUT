@@ -1,0 +1,706 @@
+UNICOS/mk 2.0.5.23 CRAY T3E sn6507 (lonestar.hpc.utexas.edu)
+
+--> Visit http://www.hpc.utexas.edu/New/Bulletins/current.html for details
+    or peruse the system bulletins in /common/doc/bulletins.
+--> T3E manuals are available at http://dynaweb.hpc.utexas.edu:8080/
+
+Please send problem reports to:
+        remark@hpc.utexas.edu           (UT Austin Users mail here)
+        http://www.npaci.edu/Consult    (NPACI Users use this web page)
+You have mail.
+news: CrayLibs33.news PrgEnv.news CF9033.news CrayTools33.news CC33.news
+ MPT13.news CrayLibs31.news CrayTools31.news CF9031.news CC31.news
+ CCToolLib30.news CCMathLib30.news
+Welcome to the CRAY T3E at the University of Texas at Austin
+-----------------------------------------------------------------------------
+ACCT     SYS  Allocated     Used  AVAILABLE      Period     Updated    Status
+-------  ---  --------- --------  ---------   ---------   ---------    ------
+N-ucb255 T3E  4000       1397.37    2602.63   1Q00-4Q00   Sat_23:55    active
+-----------------------------------------------------------------------------
+ Printing information about new stream
+
+Combined multiple recursive generator
+
+ 	seed = 887874423, stream_number = 11	parameter = 0
+
+ restart sampling
+  Number of equilibration cycles             :  10000000
+  Number of production cycles                :   5000000
+  Sample frequency                           :         1
+
+  Number of att. to displ. a part. per cycle :         1
+  Maximum displacement                       :     4.037
+  Macroion separation distance:              :     -1.00
+
+
+  Total Number of particles                  :       180
+  Box length,A                 :   125.837
+  Debye length,A               :    10.954
+  Bjerrum length,A             :  7.341707
+  Ionic Strength, M            :  0.075001
+
+ #IONS    DIAMETER   CHARGE  CONCENTRATION(M)
+    120       4.0     1.0  0.100001E+00
+     60       4.0    -1.0  0.500006E-01
+      3      20.0   -20.0  0.250003E-02
+ EWALD SUM SETUP COMPLETE 
+ NUMBER OF WAVEVECTORS IS   337
+ Total energy at initial configuration:   -345.57154
+
+  Start production 
+ ======>> Done  1000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.037)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  621720
+ ======>> Done  2000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.61 attempts: 1000000 succes:  614556
+ ======>> Done  3000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.61 attempts: 1000000 succes:  614875
+ ======>> Done  4000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.61 attempts: 1000000 succes:  614350
+ ======>> Done  5000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.61 attempts: 1000000 succes:  614260
+ Number of att. to displ. a part.  :    5000000
+ success:    3079761(= 61.60%)
+ FINAL AVERAGE ENERGY/NkT =  -368.15962977612793
+ Printing information about new stream
+
+Combined multiple recursive generator
+
+ 	seed = 887874423, stream_number = 3	parameter = 0
+
+ restart sampling
+  Number of equilibration cycles             :  10000000
+  Number of production cycles                :   5000000
+  Sample frequency                           :         1
+
+  Number of att. to displ. a part. per cycle :         1
+  Maximum displacement                       :     4.098
+  Macroion separation distance:              :      1.08
+
+
+  Total Number of particles                  :       180
+  Box length,A                 :   125.837
+  Debye length,A               :    10.954
+  Bjerrum length,A             :  7.341707
+  Ionic Strength, M            :  0.075001
+
+ #IONS    DIAMETER   CHARGE  CONCENTRATION(M)
+    120       4.0     1.0  0.100001E+00
+     60       4.0    -1.0  0.500006E-01
+      3      20.0   -20.0  0.250003E-02
+ EWALD SUM SETUP COMPLETE 
+ NUMBER OF WAVEVECTORS IS   337
+ Total energy at initial configuration:   -371.40486
+
+  Start production 
+ ======>> Done  1000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.098)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  621947
+ ======>> Done  2000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  617189
+ ======>> Done  3000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  617968
+ ======>> Done  4000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  617219
+ ======>> Done  5000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  617300
+ Number of att. to displ. a part.  :    5000000
+ success:    3091623(= 61.83%)
+ FINAL AVERAGE ENERGY/NkT =  -380.68879501832538
+ Printing information about new stream
+
+Combined multiple recursive generator
+
+ 	seed = 887874423, stream_number = 10	parameter = 0
+
+ restart sampling
+  Number of equilibration cycles             :  10000000
+  Number of production cycles                :   5000000
+  Sample frequency                           :         1
+
+  Number of att. to displ. a part. per cycle :         1
+  Maximum displacement                       :     4.034
+  Macroion separation distance:              :      1.00
+
+
+  Total Number of particles                  :       180
+  Box length,A                 :   125.837
+  Debye length,A               :    10.954
+  Bjerrum length,A             :  7.341707
+  Ionic Strength, M            :  0.075001
+
+ #IONS    DIAMETER   CHARGE  CONCENTRATION(M)
+    120       4.0     1.0  0.100001E+00
+     60       4.0    -1.0  0.500006E-01
+      3      20.0   -20.0  0.250003E-02
+ EWALD SUM SETUP COMPLETE 
+ NUMBER OF WAVEVECTORS IS   337
+ Total energy at initial configuration:   -348.01309
+
+  Start production 
+ ======>> Done  1000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.034)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  621603
+ ======>> Done  2000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  615987
+ ======>> Done  3000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.61 attempts: 1000000 succes:  614592
+ ======>> Done  4000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  615140
+ ======>> Done  5000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.61 attempts: 1000000 succes:  614728
+ Number of att. to displ. a part.  :    5000000
+ success:    3082050(= 61.64%)
+ FINAL AVERAGE ENERGY/NkT =  -358.12441321485915
+ Printing information about new stream
+
+Combined multiple recursive generator
+
+ 	seed = 887874423, stream_number = 4	parameter = 0
+
+ restart sampling
+  Number of equilibration cycles             :  10000000
+  Number of production cycles                :   5000000
+  Sample frequency                           :         1
+
+  Number of att. to displ. a part. per cycle :         1
+  Maximum displacement                       :     4.101
+  Macroion separation distance:              :      1.09
+
+
+  Total Number of particles                  :       180
+  Box length,A                 :   125.837
+  Debye length,A               :    10.954
+  Bjerrum length,A             :  7.341707
+  Ionic Strength, M            :  0.075001
+
+ #IONS    DIAMETER   CHARGE  CONCENTRATION(M)
+    120       4.0     1.0  0.100001E+00
+     60       4.0    -1.0  0.500006E-01
+      3      20.0   -20.0  0.250003E-02
+ EWALD SUM SETUP COMPLETE 
+ NUMBER OF WAVEVECTORS IS   337
+ Total energy at initial configuration:   -387.56349
+
+  Start production 
+ ======>> Done  1000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.101)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  623735
+ ======>> Done  2000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  618003
+ ======>> Done  3000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  617861
+ ======>> Done  4000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  618354
+ ======>> Done  5000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  616972
+ Number of att. to displ. a part.  :    5000000
+ success:    3094925(= 61.90%)
+ FINAL AVERAGE ENERGY/NkT =  -371.72749350416547
+ Printing information about new stream
+
+Combined multiple recursive generator
+
+ 	seed = 887874423, stream_number = 6	parameter = 0
+
+ restart sampling
+  Number of equilibration cycles             :  10000000
+  Number of production cycles                :   5000000
+  Sample frequency                           :         1
+
+  Number of att. to displ. a part. per cycle :         1
+  Maximum displacement                       :     4.157
+  Macroion separation distance:              :      1.15
+
+
+  Total Number of particles                  :       180
+  Box length,A                 :   125.837
+  Debye length,A               :    10.954
+  Bjerrum length,A             :  7.341707
+  Ionic Strength, M            :  0.075001
+
+ #IONS    DIAMETER   CHARGE  CONCENTRATION(M)
+    120       4.0     1.0  0.100001E+00
+     60       4.0    -1.0  0.500006E-01
+      3      20.0   -20.0  0.250003E-02
+ EWALD SUM SETUP COMPLETE 
+ NUMBER OF WAVEVECTORS IS   337
+ Total energy at initial configuration:   -364.43283
+
+  Start production 
+ ======>> Done  1000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.157)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  624026
+ ======>> Done  2000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  619657
+ ======>> Done  3000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  621284
+ ======>> Done  4000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  620446
+ ======>> Done  5000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  621707
+ Number of att. to displ. a part.  :    5000000
+ success:    3107120(= 62.14%)
+ FINAL AVERAGE ENERGY/NkT =  -359.58326402375479
+ Printing information about new stream
+
+Combined multiple recursive generator
+
+ 	seed = 887874423, stream_number = 7	parameter = 0
+
+ restart sampling
+  Number of equilibration cycles             :  10000000
+  Number of production cycles                :   5000000
+  Sample frequency                           :         1
+
+  Number of att. to displ. a part. per cycle :         1
+  Maximum displacement                       :     4.205
+  Macroion separation distance:              :      1.20
+
+
+  Total Number of particles                  :       180
+  Box length,A                 :   125.837
+  Debye length,A               :    10.954
+  Bjerrum length,A             :  7.341707
+  Ionic Strength, M            :  0.075001
+
+ #IONS    DIAMETER   CHARGE  CONCENTRATION(M)
+    120       4.0     1.0  0.100001E+00
+     60       4.0    -1.0  0.500006E-01
+      3      20.0   -20.0  0.250003E-02
+ EWALD SUM SETUP COMPLETE 
+ NUMBER OF WAVEVECTORS IS   337
+ Total energy at initial configuration:   -378.24318
+
+  Start production 
+ ======>> Done  1000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.205)
+ Frac. acc.: 0.63 attempts: 1000000 succes:  625477
+ ======>> Done  2000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  623661
+ ======>> Done  3000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  623878
+ ======>> Done  4000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  623585
+ ======>> Done  5000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  623310
+ Number of att. to displ. a part.  :    5000000
+ success:    3119911(= 62.40%)
+ FINAL AVERAGE ENERGY/NkT =  -385.96477250857828
+ Printing information about new stream
+
+Combined multiple recursive generator
+
+ 	seed = 887874423, stream_number = 5	parameter = 0
+
+ restart sampling
+  Number of equilibration cycles             :  10000000
+  Number of production cycles                :   5000000
+  Sample frequency                           :         1
+
+  Number of att. to displ. a part. per cycle :         1
+  Maximum displacement                       :     4.113
+  Macroion separation distance:              :      1.10
+
+
+  Total Number of particles                  :       180
+  Box length,A                 :   125.837
+  Debye length,A               :    10.954
+  Bjerrum length,A             :  7.341707
+  Ionic Strength, M            :  0.075001
+
+ #IONS    DIAMETER   CHARGE  CONCENTRATION(M)
+    120       4.0     1.0  0.100001E+00
+     60       4.0    -1.0  0.500006E-01
+      3      20.0   -20.0  0.250003E-02
+ EWALD SUM SETUP COMPLETE 
+ NUMBER OF WAVEVECTORS IS   337
+ Total energy at initial configuration:   -378.24597
+
+  Start production 
+ ======>> Done  1000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.113)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  623379
+ ======>> Done  2000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  618385
+ ======>> Done  3000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  619033
+ ======>> Done  4000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  619180
+ ======>> Done  5000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  618866
+ Number of att. to displ. a part.  :    5000000
+ success:    3098843(= 61.98%)
+ FINAL AVERAGE ENERGY/NkT =  -366.96615644560489
+ Printing information about new stream
+
+Combined multiple recursive generator
+
+ 	seed = 887874423, stream_number = 0	parameter = 0
+
+ restart sampling
+  Number of equilibration cycles             :  10000000
+  Number of production cycles                :   5000000
+  Sample frequency                           :         1
+
+  Number of att. to displ. a part. per cycle :         1
+  Maximum displacement                       :     4.074
+  Macroion separation distance:              :      1.05
+
+
+  Total Number of particles                  :       180
+  Box length,A                 :   125.837
+  Debye length,A               :    10.954
+  Bjerrum length,A             :  7.341707
+  Ionic Strength, M            :  0.075001
+
+ #IONS    DIAMETER   CHARGE  CONCENTRATION(M)
+    120       4.0     1.0  0.100001E+00
+     60       4.0    -1.0  0.500006E-01
+      3      20.0   -20.0  0.250003E-02
+ EWALD SUM SETUP COMPLETE 
+ NUMBER OF WAVEVECTORS IS   337
+ Total energy at initial configuration:   -383.10572
+
+  Start production 
+ ======>> Done  1000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.074)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  622364
+ ======>> Done  2000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  617075
+ ======>> Done  3000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  616775
+ ======>> Done  4000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  616836
+ ======>> Done  5000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  616991
+ Number of att. to displ. a part.  :    5000000
+ success:    3090041(= 61.80%)
+ FINAL AVERAGE ENERGY/NkT =  -364.11270272938503
+ Printing information about new stream
+
+Combined multiple recursive generator
+
+ 	seed = 887874423, stream_number = 2	parameter = 0
+
+ restart sampling
+  Number of equilibration cycles             :  10000000
+  Number of production cycles                :   5000000
+  Sample frequency                           :         1
+
+  Number of att. to displ. a part. per cycle :         1
+  Maximum displacement                       :     4.095
+  Macroion separation distance:              :      1.07
+
+
+  Total Number of particles                  :       180
+  Box length,A                 :   125.837
+  Debye length,A               :    10.954
+  Bjerrum length,A             :  7.341707
+  Ionic Strength, M            :  0.075001
+
+ #IONS    DIAMETER   CHARGE  CONCENTRATION(M)
+    120       4.0     1.0  0.100001E+00
+     60       4.0    -1.0  0.500006E-01
+      3      20.0   -20.0  0.250003E-02
+ EWALD SUM SETUP COMPLETE 
+ NUMBER OF WAVEVECTORS IS   337
+ Total energy at initial configuration:   -371.68409
+
+  Start production 
+ ======>> Done  1000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.095)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  623317
+ ======>> Done  2000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  617836
+ ======>> Done  3000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  617646
+ ======>> Done  4000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  616738
+ ======>> Done  5000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  617581
+ Number of att. to displ. a part.  :    5000000
+ success:    3093118(= 61.86%)
+ FINAL AVERAGE ENERGY/NkT =  -387.64347558449469
+ Printing information about new stream
+
+Combined multiple recursive generator
+
+ 	seed = 887874423, stream_number = 1	parameter = 0
+
+ restart sampling
+  Number of equilibration cycles             :  10000000
+  Number of production cycles                :   5000000
+  Sample frequency                           :         1
+
+  Number of att. to displ. a part. per cycle :         1
+  Maximum displacement                       :     4.083
+  Macroion separation distance:              :      1.06
+
+
+  Total Number of particles                  :       180
+  Box length,A                 :   125.837
+  Debye length,A               :    10.954
+  Bjerrum length,A             :  7.341707
+  Ionic Strength, M            :  0.075001
+
+ #IONS    DIAMETER   CHARGE  CONCENTRATION(M)
+    120       4.0     1.0  0.100001E+00
+     60       4.0    -1.0  0.500006E-01
+      3      20.0   -20.0  0.250003E-02
+ EWALD SUM SETUP COMPLETE 
+ NUMBER OF WAVEVECTORS IS   337
+ Total energy at initial configuration:   -358.53237
+
+  Start production 
+ ======>> Done  1000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.083)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  622428
+ ======>> Done  2000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  616934
+ ======>> Done  3000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  616566
+ ======>> Done  4000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  616036
+ ======>> Done  5000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.62 attempts: 1000000 succes:  616824
+ Number of att. to displ. a part.  :    5000000
+ success:    3088788(= 61.78%)
+ FINAL AVERAGE ENERGY/NkT =  -368.4705555414709
+ Printing information about new stream
+
+Combined multiple recursive generator
+
+ 	seed = 887874423, stream_number = 9	parameter = 0
+
+ restart sampling
+  Number of equilibration cycles             :  10000000
+  Number of production cycles                :   5000000
+  Sample frequency                           :         1
+
+  Number of att. to displ. a part. per cycle :         1
+  Maximum displacement                       :     4.285
+  Macroion separation distance:              :      1.50
+
+
+  Total Number of particles                  :       180
+  Box length,A                 :   125.837
+  Debye length,A               :    10.954
+  Bjerrum length,A             :  7.341707
+  Ionic Strength, M            :  0.075001
+
+ #IONS    DIAMETER   CHARGE  CONCENTRATION(M)
+    120       4.0     1.0  0.100001E+00
+     60       4.0    -1.0  0.500006E-01
+      3      20.0   -20.0  0.250003E-02
+ EWALD SUM SETUP COMPLETE 
+ NUMBER OF WAVEVECTORS IS   337
+ Total energy at initial configuration:   -360.15989
+
+  Start production 
+ ======>> Done  1000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.64 attempts: 1000000 succes:  638193
+ ======>> Done  2000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.64 attempts: 1000000 succes:  639520
+ ======>> Done  3000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.64 attempts: 1000000 succes:  639807
+ ======>> Done  4000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.64 attempts: 1000000 succes:  639268
+ ======>> Done  5000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.64 attempts: 1000000 succes:  638960
+ Number of att. to displ. a part.  :    5000000
+ success:    3195748(= 63.91%)
+ FINAL AVERAGE ENERGY/NkT =  -373.3963907562719
+ Printing information about new stream
+
+Combined multiple recursive generator
+
+ 	seed = 887874423, stream_number = 8	parameter = 0
+
+ restart sampling
+  Number of equilibration cycles             :  10000000
+  Number of production cycles                :   5000000
+  Sample frequency                           :         1
+
+  Number of att. to displ. a part. per cycle :         1
+  Maximum displacement                       :     4.285
+  Macroion separation distance:              :      1.30
+
+
+  Total Number of particles                  :       180
+  Box length,A                 :   125.837
+  Debye length,A               :    10.954
+  Bjerrum length,A             :  7.341707
+  Ionic Strength, M            :  0.075001
+
+ #IONS    DIAMETER   CHARGE  CONCENTRATION(M)
+    120       4.0     1.0  0.100001E+00
+     60       4.0    -1.0  0.500006E-01
+      3      20.0   -20.0  0.250003E-02
+ EWALD SUM SETUP COMPLETE 
+ NUMBER OF WAVEVECTORS IS   337
+ Total energy at initial configuration:   -362.37429
+
+  Start production 
+ ======>> Done  1000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.63 attempts: 1000000 succes:  628548
+ ======>> Done  2000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.63 attempts: 1000000 succes:  627962
+ ======>> Done  3000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.63 attempts: 1000000 succes:  629095
+ ======>> Done  4000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.63 attempts: 1000000 succes:  629387
+ ======>> Done  5000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.63 attempts: 1000000 succes:  629460
+ Number of att. to displ. a part.  :    5000000
+ success:    3144452(= 62.89%)
+ FINAL AVERAGE ENERGY/NkT =  -391.11000944745001
+ Printing information about new stream
+
+Combined multiple recursive generator
+
+ 	seed = 887874423, stream_number = 12	parameter = 0
+
+ restart sampling
+  Number of equilibration cycles             :  10000000
+  Number of production cycles                :   5000000
+  Sample frequency                           :         1
+
+  Number of att. to displ. a part. per cycle :         1
+  Maximum displacement                       :     4.285
+  Macroion separation distance:              :    -20.00
+
+
+  Total Number of particles                  :       180
+  Box length,A                 :   125.837
+  Debye length,A               :    10.954
+  Bjerrum length,A             :  7.341707
+  Ionic Strength, M            :  0.075001
+
+ #IONS    DIAMETER   CHARGE  CONCENTRATION(M)
+    120       4.0     1.0  0.100001E+00
+     60       4.0    -1.0  0.500006E-01
+      3      20.0   -20.0  0.250003E-02
+ EWALD SUM SETUP COMPLETE 
+ NUMBER OF WAVEVECTORS IS   337
+ Total energy at initial configuration:   -368.79518
+
+  Start production 
+ ======>> Done  1000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.64 attempts: 1000000 succes:  640081
+ ======>> Done  2000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.64 attempts: 1000000 succes:  640501
+ ======>> Done  3000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.64 attempts: 1000000 succes:  641755
+ ======>> Done  4000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.64 attempts: 1000000 succes:  641153
+ ======>> Done  5000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.64 attempts: 1000000 succes:  640483
+ Number of att. to displ. a part.  :    5000000
+ success:    3203973(= 64.08%)
+ FINAL AVERAGE ENERGY/NkT =  -358.46157698872992
+ Printing information about new stream
+
+Combined multiple recursive generator
+
+ 	seed = 887874423, stream_number = 13	parameter = 0
+
+ restart sampling
+  Number of equilibration cycles             :  10000000
+  Number of production cycles                :   5000000
+  Sample frequency                           :         1
+
+  Number of att. to displ. a part. per cycle :         1
+  Maximum displacement                       :     4.285
+  Macroion separation distance:              :      2.50
+
+
+  Total Number of particles                  :       180
+  Box length,A                 :   125.837
+  Debye length,A               :    10.954
+  Bjerrum length,A             :  7.341707
+  Ionic Strength, M            :  0.075001
+
+ #IONS    DIAMETER   CHARGE  CONCENTRATION(M)
+    120       4.0     1.0  0.100001E+00
+     60       4.0    -1.0  0.500006E-01
+      3      20.0   -20.0  0.250003E-02
+ EWALD SUM SETUP COMPLETE 
+ NUMBER OF WAVEVECTORS IS   337
+ Total energy at initial configuration:   -368.47340
+
+  Start production 
+ ======>> Done  1000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.65 attempts: 1000000 succes:  654092
+ ======>> Done  2000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.65 attempts: 1000000 succes:  653846
+ ======>> Done  3000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.65 attempts: 1000000 succes:  653884
+ ======>> Done  4000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.65 attempts: 1000000 succes:  654493
+ ======>> Done  5000000  out of  5000000
+ Max. displ. set to :  4.285 (old :  4.285)
+ Frac. acc.: 0.66 attempts: 1000000 succes:  655236
+ Number of att. to displ. a part.  :    5000000
+ success:    3271551(= 65.43%)
+ FINAL AVERAGE ENERGY/NkT =  -349.22116387133076
+logout

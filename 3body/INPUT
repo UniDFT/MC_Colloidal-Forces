@@ -1,0 +1,21 @@
+	number of processors
+	14
+        ibeg, Equil, Prod, Nsamp, Iseed
+         2    10000000    5000000  1  368675
+        Dr    GW   delta
+        0.09  1.0  0.03
+        Ndispl
+        1
+        BOX
+        125.837  
+	RAB0
+	1.05 1.06 1.07 1.08 1.09 1.10 1.15 1.2 1.3 1.5 1.8 2. 2.3 2.5   
+        TEMP
+        318.15
+        NION
+        3
+        sigi(i), qi(i), NPARTI(i)
+        4.0      1.      120
+        4.0     -1.      60
+        20.    -20.       3
+

@@ -1,0 +1,9 @@
+SIGNAL: CPU limit exceeded ( from process 100083 )
+
+ Beginning of Traceback (PE 2):
+  Interrupt at address 0x8000027e8 in routine 'DELTAE'.
+  Called from line 914 (address 0x800006098) in routine 'MCMOVE'.
+  Called from line 845 (address 0x800005620) in routine 'PFORCE'.
+  Called from line 26 (address 0x800001470) in routine 'MAIN'.
+  Called from line 475 (address 0x800000c94) in routine '$START$'.
+ End of Traceback.
